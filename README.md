@@ -1,2 +1,2 @@
 # Simon Says Game
-I have made one of the most popular Simon Says Game with the use of frontend only till now .
+I have made one of the most popular Simon Says Game with the use of frontend only till now. Simon is a memory-based electronic game with four colored buttons (Red, Blue, Green, Yellow). The game lights up a sequence of colors, and the player must repeat the sequence exactly in the same order. With each round, the sequence gets longer by one color. If the player presses a wrong color or gets the sequence wrong, the game ends.
